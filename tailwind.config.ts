@@ -11,6 +11,9 @@ export default {
       colors: {
         primaryColor: "#2485a8",
         secondaryColor: "#101820",
+        primaryBackground: '#1A2128',
+        primaryColorHover: "#2485a820",
+        errorColor: '#D04444'
       },
     },
   },
