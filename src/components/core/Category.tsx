@@ -7,7 +7,7 @@ import React from "react";
 interface CategoryProps {
   readonly categoryLabel: string;
   readonly categoryIcon: IconProp;
-  readonly categoryColor: string; // pode ser "#FFD700", "red", etc.
+  readonly categoryColor: string;
 }
 
 export default function Category({
